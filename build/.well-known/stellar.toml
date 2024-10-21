@@ -6,7 +6,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Phoenix Group"
-ORG_URL=""
+ORG_URL="https://i.ibb.co/GQQjN94/Phoenix-Group-logo.png"
 ORG_DESCRIPTION="Phoenix Group is an innovative leader in blockchain technology and financial services, focused on providing secure and scalable solutions. The company specializes in digital transformation and is dedicated to bridging traditional finance with cutting-edge blockchain advancements, particularly in the UAE and MENA regions. Phoenix Group is launching a stablecoin pegged to the UAE dirham on the Stellar network, reinforcing its commitment to revolutionizing financial transactions with speed, stability, and transparency."
 ORG_LOGO="Phoenix_Group_logo.png"
 
@@ -22,7 +22,7 @@ issuer="GDU2BO4HLRGX5J7D5AQPSJBZLWMQNS426GREVDZYI5IL5LWJVPZAFZ3H"
 anchor_asset_type="crypto"
 name="Stable Dirham"
 desc="Stable Dirham is a digital stablecoin fully pegged to the UAE dirham, designed to maintain a 1:1 value ratio with the national currency. Built on the Stellar network, it combines the stability of the UAE dirham with the efficiency, speed, and transparency of blockchain technology. Stable Dirham offers users a reliable and secure way to conduct financial transactions, making it ideal for cross-border payments and digital asset transfers within the UAE and beyond."
-image=""
+image="https://i.ibb.co/n35HZfq/saed.png"
 fixed_number=1200000
 max_number=1200000
 is_unlimited=false
