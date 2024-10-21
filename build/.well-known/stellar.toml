@@ -8,7 +8,7 @@ ACCOUNTS=[
 ORG_NAME="Phoenix Group"
 ORG_URL=""
 ORG_DESCRIPTION="Phoenix Group is an innovative leader in blockchain technology and financial services, focused on providing secure and scalable solutions. The company specializes in digital transformation and is dedicated to bridging traditional finance with cutting-edge blockchain advancements, particularly in the UAE and MENA regions. Phoenix Group is launching a stablecoin pegged to the UAE dirham on the Stellar network, reinforcing its commitment to revolutionizing financial transactions with speed, stability, and transparency."
-ORG_LOGO=""
+ORG_LOGO="Phoenix_Group_logo.png"
 
 [[PRINCIPALS]]
 name="Seyed Mohammad Alizadehfard"
